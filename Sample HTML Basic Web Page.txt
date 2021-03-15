@@ -1,0 +1,58 @@
+<!--
+   test website.html
+   
+   Copyright 2021 rober <rober@ELF01-PC>
+   
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+   
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+   
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+   MA 02110-1301, USA.
+   
+   
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>The Part Time Economist IPFS Page</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="generator" content="Geany 1.37.1" />
+</head>
+
+
+<body style = "background-color:Black;" >
+	<h1 style="color:Gold" align="center"><u>The Part Time Economist IPFS Page</u></h1>
+	<p style="color:Gold" align="center">This is an IPFS Website I made for a tutorial.
+	Since we are building a website anyway, I figured I could use this
+	as a landing page for all of my social media links.</p><hr>
+	
+	<p style = "color:Gold;">
+	<a href="https://read.cash/r/The.Part.Time.Economist">read.cash</a> <br>
+	<a href="https://www.publish0x.com/?a=jneg2pDdwZ">Publish0x</a><br>
+	<a href="https://lbry.tv/$/invite/@ThePartTimeEconomist:6">LBRY</a><br>
+	<a href="https://twitter.com/Robert47094705">Twitter</a><br>
+	<a href="https://www.youtube.com/channel/UCP1yv4iEQtOf2T5quukrXcg">YouTube</a><br>
+	<a href="https://peakd.com/@parttimeeconon">Hive</a><br>
+	<a href="https://den.social/p/5fc9581cbd854a5ca49065979cc267b8/">Den Social</a><br>
+        <a href="https://www.linkedin.com/in/theparttimeeconomist/">LinkedIn</a><br>
+
+	
+	</p>
+</body>
+
+
+</html>
+
+
